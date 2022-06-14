@@ -1,12 +1,18 @@
-<h5 align="left">Hello, my name is Wanderson Andrade. <br>I'm a student, I'm graduating from the Systems Analysis and Development course.<br>I'm an early career FullStack developer.<br>I'm passionate about technology, I love innovation and how it moves the world, and I want to be part of that group that moves the world forward.</h5>
+###
+
+Hi, my name is Wanderson Andrade.:star:   <br>I'm a student, I'm graduating from the Systems Analysis and Development course. :notebook:<br>I'm an early career FullStack developers.:computer:<br>I'm passionate about technology, I love innovation and how it moves the world. :sparkling_heart:<br>And I want to be part of that group that moves the world forward.:rocket::earth_americas:
+
+
 
 ###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=Wanderson98" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Wanderson98" height="150" alt="languages graph"  />
 </div>
 
 ###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
@@ -19,9 +25,10 @@
 </div>
 
 ###
-<img href="https://github.com/Wanderson98/Wanderson98/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Wanderson98/Wanderson98/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/wanderson-matos-35245411a/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -30,6 +37,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+
 
 ###
 
@@ -46,4 +54,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
