@@ -1,6 +1,6 @@
 ###
 
-Hi, my name is Wanderson Andrade.:star:   <br> I'm graduating from the Systems Analysis and Development course. :notebook:<br>I'm an early career FullStack developers.:computer:<br>I'm passionate about technology, I love innovation and how it moves the world. :sparkling_heart:<br>And I want to be part of that group that moves the world forward.:rocket::earth_americas:
+Hi, my name is Wanderson Andrade. :star:   <br> I'm graduating from the Systems Analysis and Development course. :notebook:<br>I'm an early career FullStack developers. :computer:<br>I'm passionate about technology, I love innovation and how it moves the world. :sparkling_heart:<br>And I want to be part of that group that moves the world forward. :rocket: :earth_americas:
 
 
 
