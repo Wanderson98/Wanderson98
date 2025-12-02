@@ -7,7 +7,7 @@ Atualmente utilizo o Fedora Linux como ambiente principal de desenvolvimento, Do
 🛠️ Minha Stack Atual
 Back-end
 
-C# / .NET 7+ / ASP.NET Core
+C# / .NET  / ASP.NET Core
 
 Clean Architecture
 
